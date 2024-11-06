@@ -99,9 +99,7 @@ This project requires a MySQL database. You can download the initial database fi
 
 ### Testing with Postman
 
-You can access the Postman collection for testing the API endpoints here: ..
-
-Alternatively, you can download the collection file and import it into Postman using the "Import" feature. ..
+You can download the collection file and import it into Postman using the "Import" feature. ( https://drive.google.com/file/d/1xtSbEKyLTYlTULRE1VxPeiIc-PaMiaO9/view?usp=sharing )
 
 ## Documentation
 ### Assigment Task I
