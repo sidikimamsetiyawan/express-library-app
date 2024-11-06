@@ -19,7 +19,56 @@ This project is an Online Library System that allows users to register, log in, 
 3. **Admin Functions**
    - Admins can monitor borrowed books to check overdue items or those currently out on loan.
 ### Assigment Task II
-### Assigment Task III
+1. **JSON Array Structure**
+   - A sample JSON array object is created with custom information.
+
+2. **Label and Button Interaction**
+   - A label displays a value from the JSON array.
+   - A button changes the label's value on click.
+
+3. **HTTP Request**
+   - Makes an HTTP GET request to `http://jsonplaceholder.typicode.com/posts`.
+   - The response is logged to the console.
+
+4. **Display Response in Table Format**
+   - Displays up to 10 records from the HTTP response in a table format on the HTML page.
+
+5. **Delete Function**
+   - Includes a function to delete one record from the displayed table.
+
+6. **Key Removal from JSON Object**
+   - Removes a specific key from the JSON response object.
+
+7. **SHA-256 Hashing Function**
+   - Hashes the string `tanggalhariini+namadepananda+pria+ifabula` using SHA-256.
+   - The hashed value is logged to the console.
+
+8. **Debugging**
+   - Identifies and fixes errors in the `testdebug.html` file, with details on each error line.
+
+9. **Login and Logout Functionality**
+   - Implements a login form with local storage for the username and password.
+   - Logic to:
+     - Hide the logout button and welcome message initially.
+     - Display the welcome message and logout button upon successful login.
+     - Clear local storage and reset visibility on logout.
+
+10. **Node.js Project with Express**
+   - A Node.js project using Express that includes two API endpoints:
+     - `GET` and `POST` methods with custom data.
+   
+11. **Request Header Validation**
+   - Adds custom headers to API requests:
+     - `User-id: ifabula`
+     - `Scope: user`
+   - Validates the headers, responding with:
+     ```json
+     {
+       "responseCode": 401,
+       "responseMessage": "UNAUTHORIZED"
+     }
+     ```
+     if the headers do not match.
 
 ## Getting Started
 ### Installation and Setup
@@ -57,5 +106,29 @@ Alternatively, you can download the collection file and import it into Postman u
 
 ## Documentation
 ### Assigment Task I
+![image](https://github.com/user-attachments/assets/679a274f-2cba-4592-9588-e630c1ec6ae7)
+
 ### Assigment Task II
-### Assigment Task III
+![image](https://github.com/user-attachments/assets/c942a5f9-b1c6-42f9-b463-4653fd2ef009)
+
+1. **JSON Array Structure**
+
+2. **Label and Button Interaction**
+
+3. **HTTP Request**
+
+4. **Display Response in Table Format**
+
+5. **Delete Function**
+
+6. **Key Removal from JSON Object**
+
+7. **SHA-256 Hashing Function**
+
+8. **Debugging**
+
+9. **Login and Logout Functionality**
+
+10. **Node.js Project with Express**
+
+11. **Request Header Validation**
