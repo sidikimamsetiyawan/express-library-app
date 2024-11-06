@@ -126,7 +126,7 @@ Alternatively, you can download the collection file and import it into Postman u
 ![image](https://github.com/user-attachments/assets/679a274f-2cba-4592-9588-e630c1ec6ae7)
 
 ### Assigment Task II
-![image](https://github.com/user-attachments/assets/c942a5f9-b1c6-42f9-b463-4653fd2ef009)
+![image](https://github.com/user-attachments/assets/dbf45356-617d-476b-ad49-c1906cfdb628)
 
 1. **JSON Array Structure**
 ![image](https://github.com/user-attachments/assets/a89c0e44-cbd6-4bbf-9348-48ae0f6dc133)
@@ -140,6 +140,7 @@ Alternatively, you can download the collection file and import it into Postman u
 ![image](https://github.com/user-attachments/assets/e8f81173-b830-4a8c-8e76-8c677f6df9bf)
 
 5. **Delete Function**
+![image](https://github.com/user-attachments/assets/01e63f54-6d82-46b9-b218-c3b7f1cc91f4)
 
 6. **Key Removal from JSON Object**
 ![image](https://github.com/user-attachments/assets/e33a7419-1ea0-4e19-a608-5a76cd8c58f9)
@@ -151,7 +152,8 @@ Alternatively, you can download the collection file and import it into Postman u
 ![image](https://github.com/user-attachments/assets/7ae784b6-8a48-4b83-b1bf-03ee3c9d5c00)
 
 9. **Login and Logout Functionality**
+![image](https://github.com/user-attachments/assets/73a052b0-9317-4efc-901c-1df1652e70ab)
 
-10. **Node.js Project with Express**
-
+10. **Node.js Project with Express** ( Already available in Assigment Task I )
+    
 11. **Request Header Validation**
