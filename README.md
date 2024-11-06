@@ -106,6 +106,23 @@ Alternatively, you can download the collection file and import it into Postman u
 
 ## Documentation
 ### Assigment Task I
+1. **User Authentication**
+   * **Registration**
+     ![image](https://github.com/user-attachments/assets/ad232b92-1a36-407e-94ce-4a95a42a9403)
+     ![image](https://github.com/user-attachments/assets/47d8c0b5-f746-4e66-9ab4-2d87dbb8c421)
+     ![image](https://github.com/user-attachments/assets/9ee92250-a88f-424f-80aa-a99a4f99820a)
+     
+   * **Login**
+     ![image](https://github.com/user-attachments/assets/0c65a25a-9f5f-4a70-8611-781c819846ae)
+     ![image](https://github.com/user-attachments/assets/5388d343-9fa3-42b4-96b0-4d10aa711a90)
+
+2. **Book Borowing**
+   ![image](https://github.com/user-attachments/assets/907b2e01-1c63-43cd-9ca4-c0012da186a1)
+  
+3. **Status Borowing**
+   ![image](https://github.com/user-attachments/assets/270dc6b2-c4ef-4e6a-b060-b5a84e29036f)
+
+4. **Rules Borowing** 
 ![image](https://github.com/user-attachments/assets/679a274f-2cba-4592-9588-e630c1ec6ae7)
 
 ### Assigment Task II
